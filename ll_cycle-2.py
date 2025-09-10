@@ -10,3 +10,4 @@ def detectCycle(self, head):
                     fast = fast.next
                 return slow
         return None
+
